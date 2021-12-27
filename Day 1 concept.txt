@@ -1,0 +1,23 @@
+==================
+Core java
+==================
+1. Software Installation (jdk,eclipse)
+2. JRE vs JDK
+3. Compiling java file from command prompt
+4. Data Types in Java
+5. Operators in Java
+6. Working with Strings
+7. Control Structures (branching and looping)
+8. Arrays
+9. Collections
+10. OOPS Concepts
+11. Exception Handling
+12. Multi-Threading
+13. Working with Files
+================================
+Data Structures
+Serialization
+Time Complexity
+Numerous programs
+Save details in database
+=================================
